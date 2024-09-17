@@ -7,3 +7,5 @@ Kelas : PBP F
 Hobi : Turu
 
 Jurusan : Ilmu Komputer
+
+Hello semua!
