@@ -4,7 +4,7 @@ NPM : 2306227955
 
 Kelas : PBP F
 
-Hobi : Turu
+Hobi : Makan
 
 Jurusan : Ilmu Komputer
 
