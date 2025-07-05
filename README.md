@@ -9,7 +9,3 @@ Hobi : Turu
 Jurusan : Ilmu Komputer
 
 Hello semua!
-
-
-*****##**
-tess
